@@ -1,0 +1,11 @@
+C:\Users\tomas\source\repos\ChuckNorrisJokes\ChuckNorrisJokesLibrary\bin\Debug\ChuckNorrisJokesLibrary.dll
+C:\Users\tomas\source\repos\ChuckNorrisJokes\ChuckNorrisJokesLibrary\bin\Debug\ChuckNorrisJokesLibrary.pdb
+C:\Users\tomas\source\repos\ChuckNorrisJokes\ChuckNorrisJokesLibrary\bin\Debug\RestSharp.dll
+C:\Users\tomas\source\repos\ChuckNorrisJokes\ChuckNorrisJokesLibrary\bin\Debug\RestSharp.xml
+C:\Users\tomas\source\repos\ChuckNorrisJokes\ChuckNorrisJokesLibrary\obj\Debug\ChuckNorrisJokesLibrary.csproj.AssemblyReference.cache
+C:\Users\tomas\source\repos\ChuckNorrisJokes\ChuckNorrisJokesLibrary\obj\Debug\ChuckNorrisJokesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\ChuckNorrisJokes\ChuckNorrisJokesLibrary\obj\Debug\ChuckNorrisJokesLibrary.csproj.CopyComplete
+C:\Users\tomas\source\repos\ChuckNorrisJokes\ChuckNorrisJokesLibrary\obj\Debug\ChuckNorrisJokesLibrary.dll
+C:\Users\tomas\source\repos\ChuckNorrisJokes\ChuckNorrisJokesLibrary\obj\Debug\ChuckNorrisJokesLibrary.pdb
+C:\Users\tomas\source\repos\ChuckNorrisJokes\ChuckNorrisJokesLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tomas\source\repos\ChuckNorrisJokes\ChuckNorrisJokesLibrary\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,11 @@
+C:\Users\tomas\source\repos\ChuckNorrisJokes\WeatherLibrary\bin\Debug\WeatherLibrary.dll
+C:\Users\tomas\source\repos\ChuckNorrisJokes\WeatherLibrary\bin\Debug\WeatherLibrary.pdb
+C:\Users\tomas\source\repos\ChuckNorrisJokes\WeatherLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tomas\source\repos\ChuckNorrisJokes\WeatherLibrary\bin\Debug\RestSharp.dll
+C:\Users\tomas\source\repos\ChuckNorrisJokes\WeatherLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tomas\source\repos\ChuckNorrisJokes\WeatherLibrary\bin\Debug\RestSharp.xml
+C:\Users\tomas\source\repos\ChuckNorrisJokes\WeatherLibrary\obj\Debug\WeatherLibrary.csproj.AssemblyReference.cache
+C:\Users\tomas\source\repos\ChuckNorrisJokes\WeatherLibrary\obj\Debug\WeatherLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\ChuckNorrisJokes\WeatherLibrary\obj\Debug\WeatherLibrary.csproj.CopyComplete
+C:\Users\tomas\source\repos\ChuckNorrisJokes\WeatherLibrary\obj\Debug\WeatherLibrary.dll
+C:\Users\tomas\source\repos\ChuckNorrisJokes\WeatherLibrary\obj\Debug\WeatherLibrary.pdb
